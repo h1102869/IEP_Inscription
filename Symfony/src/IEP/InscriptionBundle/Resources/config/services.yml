@@ -1,4 +1,0 @@
-services:
-#    iep_inscription.example:
-#        class: IEP\InscriptionBundle\Example
-#        arguments: [@service_id, "plain_value", %parameter%]
