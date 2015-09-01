@@ -1,0 +1,7 @@
+eipa_platform:
+    resource: "@EIPAPlatformBundle/Resources/config/routing.yml"
+    prefix:   /
+
+EIPA_platform:
+    resource: "@EIPAPlatformBundle/Resources/config/routing.yml"
+    prefix: /platform 

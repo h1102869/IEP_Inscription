@@ -1,0 +1,33 @@
+
+    #intro { 
+      background: url(../../resources/views/img/bckwhite.jpg) 50% 0 fixed; 
+      height: auto;  
+      margin-top: -20px;
+      box-shadow: 0 0 50px rgba(0,0,0,0.8);
+
+        width: 100%; 
+        position: relative; 
+        padding: 100px;
+    }
+    #home { 
+      background: url(../../resources/views/img/bckjobs.jpeg) 80% 0 fixed; 
+      height: auto;  
+      box-shadow: 0 0 50px rgba(0,0,0,0.8);
+
+     
+        width: 100%; 
+        position: relative; 
+        padding: 300px;
+    }
+    #about { 
+      background: url(../../resources/views/img/bckwhite.jpg) 50% 0 fixed; 
+      height: auto;
+      margin-bottom: -10px;
+      box-shadow: 0 0 50px rgba(0,0,0,0.8);
+
+        width: 100%; 
+        position: relative; 
+        padding: 100px;
+    }
+
+    
