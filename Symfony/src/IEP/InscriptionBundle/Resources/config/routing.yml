@@ -1,0 +1,3 @@
+iep_inscription_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: IEPInscriptionBundle:Default:index }
